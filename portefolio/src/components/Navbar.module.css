@@ -1,0 +1,11 @@
+
+
+Nav {
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+  }
+
+Nav .cv {
+    margin-left: 20px;
+}
